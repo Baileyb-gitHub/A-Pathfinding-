@@ -1,0 +1,6 @@
+xxxxx
+x.B.x
+x...x
+x...x
+x.A.x
+xxxxx

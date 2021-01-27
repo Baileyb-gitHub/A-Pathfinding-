@@ -1,0 +1,11 @@
+﻿  Grid Class.cpp
+C:\Users\baile\Documents\My Files\Business\Playground Games Application\Program in Here\Maze Escape\Grid Class.cpp(47,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\baile\Documents\My Files\Business\Playground Games Application\Program in Here\Maze Escape\Grid Class.cpp(49,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\baile\Documents\My Files\Business\Playground Games Application\Program in Here\Maze Escape\Grid Class.cpp(58,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\baile\Documents\My Files\Business\Playground Games Application\Program in Here\Maze Escape\Grid Class.cpp(70,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\baile\Documents\My Files\Business\Playground Games Application\Program in Here\Maze Escape\Grid Class.cpp(147,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\baile\Documents\My Files\Business\Playground Games Application\Program in Here\Maze Escape\Grid Class.cpp(166,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\baile\Documents\My Files\Business\Playground Games Application\Program in Here\Maze Escape\Grid Class.cpp(210,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\baile\Documents\My Files\Business\Playground Games Application\Program in Here\Maze Escape\Grid Class.cpp(212,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\baile\Documents\My Files\Business\Playground Games Application\Program in Here\Maze Escape\Grid Class.cpp(202): warning C4715: 'Grid::calculateMazeSolution': not all control paths return a value
+  Maze Escape.vcxproj -> C:\Users\baile\Documents\My Files\Business\Playground Games Application\Program in Here\Maze Escape\Debug\Maze Escape.exe
